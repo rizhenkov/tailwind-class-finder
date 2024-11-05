@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-class-scanner",
+  "version": "1.0.2",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "scan": "bin/index.js"
+  },
+  "keywords": ["tailwind", "class-finder", "utility", "css-scanner", "finder", "scanner", "tailwind-integration"],
+  "author": "A. Rizhenkov <a@rizhenkov.by>",
+  "license": "MIT",
+  "description": "Tailwind Class Scanner is a Node.js utility designed to scan your project for Tailwind CSS classes, helping developers seamlessly integrate Tailwind into existing projects by identifying similarly named classes and preventing style conflicts. Ideal for frontend developers looking to optimize their codebase and maintain clean, efficient styling."
+}
