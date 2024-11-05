@@ -17,7 +17,7 @@ npx tailwind-class-scanner@latest path/to/directory --ignored-classes justify-ce
 
 Or just clone the repository and run the utility using Node.js:
 ```sh
-git clone git@github.com:rizhenkov/tailwind-class-scanner.git && cd tailwind-class-scanner
+git clone https://github.com/rizhenkov/tailwind-class-scanner.git && cd tailwind-class-scanner
 node ./index.js path/to/directory
 ```
 

@@ -9,6 +9,13 @@
   "bin": {
     "scan": "bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rizhenkov/tailwind-class-scanner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rizhenkov/tailwind-class-scanner/issues"
+  },
   "keywords": ["tailwind", "class-finder", "utility", "css-scanner", "finder", "scanner", "tailwind-integration"],
   "author": "A. Rizhenkov <a@rizhenkov.by>",
   "license": "MIT",
