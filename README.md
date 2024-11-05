@@ -12,7 +12,7 @@ This utility is intended for those who are planning to add Tailwind to an existi
 ## Usage
 Run the utility using npx, specifying the directory to scan as the first argument. You can also provide optional arguments to ignore specific classes and paths.
 ```sh
-npx tailwind-class-scanner@latest path/to/directory --ignored-classes=justify-center,ml-auto,mb-4 --ignored-paths=src/components/ignored1,src/components/ignored2
+npx tailwind-class-scanner@latest path/to/directory --ignored-classes justify-center,ml-auto,mb-4 --ignored-paths src/components/ignored1,src/components/ignored2
 ```
 
 Or just clone the repository and run the utility using Node.js:
